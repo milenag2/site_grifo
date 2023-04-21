@@ -1,0 +1,42 @@
+.vermelho{
+    background-color: #A70000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    width: 100%;
+    height: 650px;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.txt{
+    padding: 30px;
+}
+.txt h1{
+    font-size: 140px;
+    font-family: 'Graduate';
+}
+.txt p{
+    font-size: 30px;
+    font-family: 'Inter';
+}
+.branco{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    width: 100%;
+    height: 650px;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    background: #FFFFFF;
+}
+.img{
+    width: 650px;
+    height: 400px;
+    padding: 30px;
+}
